@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React_noworn_music/static/css/main.bdfe191f.css",
+    "main.js": "/React_noworn_music/static/js/main.6ed2f3ce.js",
+    "index.html": "/React_noworn_music/index.html",
+    "main.bdfe191f.css.map": "/React_noworn_music/static/css/main.bdfe191f.css.map",
+    "main.6ed2f3ce.js.map": "/React_noworn_music/static/js/main.6ed2f3ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdfe191f.css",
+    "static/js/main.6ed2f3ce.js"
+  ]
+}
